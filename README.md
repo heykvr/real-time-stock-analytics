@@ -1,4 +1,3 @@
-# real-time-stock-analytics
 
 # Real-Time Stock Market Analytics
 
